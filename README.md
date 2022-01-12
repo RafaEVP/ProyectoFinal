@@ -18,3 +18,5 @@ Al iniciar sesión los botones de la barra superior cambian, permitiendonos asi,
 En el apartado de ver las propuestas de jugadores ya echas, podemos encontrar dos botones mas, uno que dice "ver mas" el cual nos despligue una ventana de información extendida de todos los jugadores y otro que dice "agregar jugador" que nos redirecciona a la vista del formulario para poder agregar otro jugador.
 
 En cualquier vista en la que uno se encuentre al darle arriba a la izquierda al boton "Los mejores 6" nos redirecciona inmediatamente al incio de la pagina.
+
+El link del video donde se demuestra todo lo mencionado anterior: https://youtu.be/71vL3XmTLPQ
